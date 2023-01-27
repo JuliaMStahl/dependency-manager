@@ -1,3 +1,3 @@
 library dependency_manager;
 
-export 'package:perfil/app/routes/app_pages.dart';
+export 'package:routes_lib/routes_lib.dart';

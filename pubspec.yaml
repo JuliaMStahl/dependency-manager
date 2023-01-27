@@ -11,9 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
 
-  perfil:
+  routes_lib:
     git:
-      url: https://github.com/JuliaMStahl/perfil.git
+      url: https://github.com/JuliaMStahl/routes_lib.git
       ref: master
 
 dev_dependencies:
