@@ -21,6 +21,11 @@ dependencies:
       url: https://github.com/JuliaMStahl/translation_lib.git
       ref: master
 
+  shared_lib:
+    git:
+      url: https://github.com/JuliaMStahl/shared_lib.git
+      ref: master
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
